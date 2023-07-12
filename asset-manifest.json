@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b050d2ea.css",
+    "main.js": "/static/js/main.38ccd69e.js",
+    "static/media/bg.jpg": "/static/media/bg.c5e60d3448c2bd58510d.jpg",
+    "static/media/3-min.webp": "/static/media/3-min.7fc22f999dbe23903752.webp",
+    "static/media/4-min.webp": "/static/media/4-min.ebaf37078006be19082c.webp",
+    "static/media/2-min.webp": "/static/media/2-min.07e0cd52cb549ed3bba8.webp",
+    "static/media/6-min.webp": "/static/media/6-min.3d87a6341c737b54a09f.webp",
+    "static/media/7-min.webp": "/static/media/7-min.3c47f51f1b1f20e4c7c5.webp",
+    "static/media/1-min.webp": "/static/media/1-min.8ac40239491fb857b9d9.webp",
+    "static/media/5-min.webp": "/static/media/5-min.0ef8f98332e013eba035.webp",
+    "static/media/dr-abha-sharma.jpg": "/static/media/dr-abha-sharma.3845e6b8923479064e22.jpg",
+    "static/media/doctor-abha-sharma.jpg": "/static/media/doctor-abha-sharma.4b2ba01b1629e624f5aa.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.b050d2ea.css.map": "/static/css/main.b050d2ea.css.map",
+    "main.38ccd69e.js.map": "/static/js/main.38ccd69e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b050d2ea.css",
+    "static/js/main.38ccd69e.js"
+  ]
+}
